@@ -100,7 +100,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 5.  Abra um Pull Request.
 
 ## 📽️ Demonstração em Vídeo
-- Um vídeo de demonstração do projeto pode ser disponibilizado para visualização do funcionamento prático.
+- O vídeo de demonstração do projeto pode ser visualizado aqui: [Link para o vídeo](https://drive.google.com/file/d/1CtTBlMcizYix0AwHNDmm700G4hOCUKI9/view?usp=sharing)
 
 ## 💡 Considerações Finais
 Este projeto serve como uma excelente base para o desenvolvimento de dispositivos IoT mais complexos. A arquitetura pode ser expandida para incluir sensores reais (como BME280 ou DHT22). O uso de MQTT o torna modular e facilmente integrável a sistemas de automação residencial existentes. A implementação atual utiliza um loop de polling para gerenciar tarefas, o que é eficiente para esta aplicação, mas poderia ser migrado para um sistema operacional de tempo real (RTOS) para projetos com maior complexidade de tarefas concorrentes.
